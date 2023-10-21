@@ -83,7 +83,7 @@
       "float" : 0
     },
     "hideMenubarIcon" : {
-      "bool" : false
+      "bool" : true
     },
     "ignoreDragSnapToo" : {
       "int" : 0
@@ -92,10 +92,10 @@
       "int" : 0
     },
     "landscapeSnapAreas" : {
-      "string" : "[7,{\"compound\":-4},5,{\"compound\":-3},1,{\"action\":15},3,{\"action\":16},4,{\"compound\":-2},6,{\"action\":13},8,{\"action\":14},2,{\"action\":2}]"
+      "string" : "[4,{\"compound\":-2},7,{\"compound\":-4},6,{\"action\":13},5,{\"compound\":-3},2,{\"action\":2},1,{\"action\":15},3,{\"action\":16},8,{\"action\":14}]"
     },
     "launchOnLogin" : {
-      "bool" : false
+      "bool" : true
     },
     "minimumWindowHeight" : {
       "float" : 0
@@ -116,7 +116,7 @@
       "int" : 0
     },
     "moveCursorAcrossDisplays" : {
-      "int" : 1
+      "int" : 2
     },
     "notifiedOfProblemApps" : {
       "bool" : false
@@ -188,7 +188,7 @@
       "int" : 1
     },
     "SUEnableAutomaticChecks" : {
-      "bool" : false
+      "bool" : true
     },
     "systemWideMouseDown" : {
       "int" : 0
